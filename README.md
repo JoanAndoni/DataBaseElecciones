@@ -27,7 +27,7 @@ db2
 
 ## Usage
 
-Then run the scripts in the following order:
+Execute the scripts in the following order:
 
 * Tarea1-db2.sql
 * Tarea1-db2-fill.sql
