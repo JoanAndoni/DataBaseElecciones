@@ -40,7 +40,7 @@ SELECT * FROM hist_rol
 -- Mesas
 UPDATE mesa SET noMesa = 1 WHERE id_mesa = 21
 SELECT * FROM mesa
-DELETE FROM mesa WHERE id_colegio=11 AND noMesa = 1
+DELETE FROM mesa WHERE id_colegio=11 AND noMesa = 1 
 SELECT * FROM hist_mesa
 
 -- Colegios
