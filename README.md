@@ -39,5 +39,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 By
-* [Joan Andoni] (https://github.com/JoanAndoni)
-* [Alejandra Tubilla] (https://github.com/alejandratub)
+* [Joan Andoni](https://github.com/JoanAndoni)
+* [Alejandra Tubilla](https://github.com/alejandratub)
